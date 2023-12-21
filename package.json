@@ -1,0 +1,22 @@
+{
+  "name": "modbot",
+  "version": "1.0.0",
+  "description": "a moderation bot built using djs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moderation",
+    "discord-bot"
+  ],
+  "author": "Bekian",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.1.1"
+  }
+}

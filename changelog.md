@@ -3,3 +3,6 @@
     - Added changelog
     - Added index.js from tutorial
     - Fixed some eslint rules because the tutorial ones were bad
+
+# December 22nd V0.0.2
+    - Fixed parentheses on client ready
